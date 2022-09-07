@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fuushyn
-- 👀 I’m interested in building products with real users
-- 🌱 I’m currently learning OS, machine learning
-- 💞️ I’m looking to collaborate on all kinds of projects, just hit me uuup
+- 🌱 I’m currently learning OS, machine learning, web search and mining, graphics
+- 💞️ I’m looking to collaborate on all kinds of projects, just hit me up
 - 📫 How to reach me - gzlakshya@gmail.com
 
 <!---
