@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fuushyn
+- 👋 Hi, I’m Lakshya
 - 🌱 I’m currently learning OS, machine learning, web search and mining, graphics
 - 💞️ I’m looking to collaborate on all kinds of projects, just hit me up
 - 📫 How to reach me - [lakshyagupta831@gmail.com](mailto:lakshyagupta831@gmail.com)
